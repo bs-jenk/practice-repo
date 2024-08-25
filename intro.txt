@@ -1,1 +1,7 @@
 Here is my first file.
+
+Now adding an edit - a haiku about coding.
+
+Flying across keys,
+Swift fingers move rapidly,
+Oh no there's a bug.
